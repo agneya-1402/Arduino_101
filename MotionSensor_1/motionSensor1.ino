@@ -1,10 +1,10 @@
-const int PIR_SENSOR_OUTPUT_PIN = 3;	/* PIR sensor O/P pin */
+const int PIR_SENSOR_OUTPUT_PIN = 3;	
 int warm_up;
 
 void setup() {
   pinMode(PIR_SENSOR_OUTPUT_PIN, INPUT);
-  Serial.begin(9600);	/* Define baud rate for serial communication */
-  delay(500);	/* Power On Warm Up Delay */
+  Serial.begin(9600);	
+  delay(500);	
 }
 
 void loop() {
