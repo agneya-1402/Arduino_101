@@ -22,12 +22,10 @@ void setup() {
   Serial.begin(9600);
 }
  
-void loop() {
-  // Get key 
+void loop() { 
   char customKey = customKeypad.getKey();
  
   if (customKey) {
-    // Print 
     Serial.println(customKey);
   }
 }
