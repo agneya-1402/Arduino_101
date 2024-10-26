@@ -31,7 +31,7 @@ This repository contains a collection of beginner-friendly Arduino projects with
    
 6. **[LCD Display Output](./LCD_1)**
    - **Description**: Displays messages on a 16x2 LCD screen.
-   - **Components**: 16x2 LCD, Arduino board, potentiometer, jumper wires.
+   - **Components**: 16x2 LCD, Arduino board, jumper wires.
    - **Folder**: [`LCD_Display`](./LCD_1)
    
 7. **[Keypad Inputs](./Keypad_1)**
@@ -41,7 +41,7 @@ This repository contains a collection of beginner-friendly Arduino projects with
    
 8. **[PIR Motion Sensor](./MotionSensor_1)**
    - **Description**: Detects motion using a PIR sensor and triggers an LED or other output.
-   - **Components**: PIR motion sensor, Arduino board, LED (optional), resistor, jumper wires.
+   - **Components**: PIR motion sensor, Arduino board, jumper wires.
    - **Folder**: [`PIR_Motion_Sensor`](./MotionSensor_1)
 
 ## Repository Structure
